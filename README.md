@@ -26,6 +26,8 @@ Below is the project flow and explanation of its architecture :
 
 <img width="566" alt="image" src="https://user-images.githubusercontent.com/6604847/230718114-724e8799-ca9e-47d9-b3c9-8d05e4983e1e.png">
 
+==>
+
 <img width="536" alt="image" src="https://user-images.githubusercontent.com/6604847/230718126-cc9e2692-5fc6-4599-8bd7-1a90e99dff23.png">
 
 <img width="428" alt="image" src="https://user-images.githubusercontent.com/6604847/230718148-c4497d8d-05ba-498f-b147-a21cf4f7d462.png">
