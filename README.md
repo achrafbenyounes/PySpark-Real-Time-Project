@@ -11,8 +11,9 @@ Below is the project flow and explanation of its architecture :
 
 # Explanation of the above data pipeline : 
 
-1- ===> 
-2- ===> 
+1- ===> xxxxxxxxxxxxxxxxxx
+
+2- ===> xxxxxxxxxxxxxxxxxxxxx
 
 <img width="584" alt="image" src="https://user-images.githubusercontent.com/6604847/230718086-17652101-8393-4cea-a0c4-9362673df726.png">
 
