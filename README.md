@@ -5,6 +5,8 @@ Projects uses all the latest technologies - Spark, Python, PyCharm, HDFS, YARN, 
 
 This project aims to understand the business Model and project flow of a USA Healthcare project.
 
+Below is the project flow and explanation of its architecture : 
+
 <img width="278" alt="image" src="https://user-images.githubusercontent.com/6604847/230717988-88fe04d6-00b0-4a03-b5ee-b7139394f7eb.png">
 
 <img width="584" alt="image" src="https://user-images.githubusercontent.com/6604847/230718086-17652101-8393-4cea-a0c4-9362673df726.png">
