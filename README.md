@@ -50,6 +50,8 @@ Also we will transfer the final files to client's S3 Bucket, Azure blob and also
 
 Througout this process will make sure that all the scripts should have a good Exception handling mechnisme and good logging mechanism
 
+Below is an overview of some transormations : 
+
 
 <img width="485" alt="image" src="https://user-images.githubusercontent.com/6604847/230718341-621d2771-3dd3-424d-a4af-71b832752ee1.png">
 
@@ -59,10 +61,6 @@ Througout this process will make sure that all the scripts should have a good Ex
 <img width="570" alt="image" src="https://user-images.githubusercontent.com/6604847/230718360-21b79beb-c77f-4ccc-9762-61d3a9281a6b.png">
 
 
-
-
-
-<img width="512" alt="image" src="https://user-images.githubusercontent.com/6604847/230718392-67122b2b-4ee0-4e16-a21c-824679221949.png">
 
 
 
