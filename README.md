@@ -21,6 +21,8 @@ Below is the project flow and explanation of its architecture :
 
 <img width="584" alt="image" src="https://user-images.githubusercontent.com/6604847/230718086-17652101-8393-4cea-a0c4-9362673df726.png">
 
+- run_pipeline.py: It's the pipeline script which is the execution starting point, this script will perform a series of operation, starting with ingestion data, data pre-processing and transforming data, data storage and data transfer. See the picture above :
+
 <img width="566" alt="image" src="https://user-images.githubusercontent.com/6604847/230718114-724e8799-ca9e-47d9-b3c9-8d05e4983e1e.png">
 
 <img width="536" alt="image" src="https://user-images.githubusercontent.com/6604847/230718126-cc9e2692-5fc6-4599-8bd7-1a90e99dff23.png">
