@@ -40,7 +40,11 @@ After this, we'll have a series of transformations to modify the row of data int
 
 <img width="428" alt="image" src="https://user-images.githubusercontent.com/6604847/230718148-c4497d8d-05ba-498f-b147-a21cf4f7d462.png">
 
+In the next step, we would persist the data into Hive table and PostgreSQL database
+
 <img width="505" alt="image" src="https://user-images.githubusercontent.com/6604847/230718168-53b19144-e19f-4dc1-ac7a-e461a6c92077.png">
+
+Also we will transfer the final files to client's S3 Bucket, Azure blob and also to a Linux Path
 
 <img width="527" alt="image" src="https://user-images.githubusercontent.com/6604847/230718242-9e58e232-1ed8-4c18-b56d-ee6371861881.png">
 
