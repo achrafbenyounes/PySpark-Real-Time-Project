@@ -17,6 +17,9 @@ This project aims to understand the business Model and project flow of a USA Hea
 
 <img width="505" alt="image" src="https://user-images.githubusercontent.com/6604847/230718168-53b19144-e19f-4dc1-ac7a-e461a6c92077.png">
 
+<img width="527" alt="image" src="https://user-images.githubusercontent.com/6604847/230718242-9e58e232-1ed8-4c18-b56d-ee6371861881.png">
+
+
 
 
 
