@@ -11,9 +11,13 @@ Below is the project flow and explanation of its architecture :
 
 # Explanation of the above data pipeline : 
 
-1- ===> xxxxxxxxxxxxxxxxxx
+1- Data Ingestion: Bring row data into the system (HDFS, Spark DataFrame) from different sources (different relational databases, different file systems like CSV, Avro, Parquet, ORC, SAS Applications etc.).
 
-2- ===> xxxxxxxxxxxxxxxxxxxxx
+2- Data Pre-Processing: Includes operations of cleansing the data.
+
+3- Transformation: Is the core of any data pipeline project, refers to the operations that change the data, which may include data standardization, Sorting, Deduplication, Validation, Adding new columns, Dropping existing columns. The ultimate goal of this step is to make it possible to analyse the data.
+
+4- Storage: 
 
 <img width="584" alt="image" src="https://user-images.githubusercontent.com/6604847/230718086-17652101-8393-4cea-a0c4-9362673df726.png">
 
