@@ -9,6 +9,11 @@ Below is the project flow and explanation of its architecture :
 
 <img width="278" alt="image" src="https://user-images.githubusercontent.com/6604847/230717988-88fe04d6-00b0-4a03-b5ee-b7139394f7eb.png">
 
+# Explanation of the above data pipeline : 
+
+1- ===> 
+2- ===> 
+
 <img width="584" alt="image" src="https://user-images.githubusercontent.com/6604847/230718086-17652101-8393-4cea-a0c4-9362673df726.png">
 
 <img width="566" alt="image" src="https://user-images.githubusercontent.com/6604847/230718114-724e8799-ca9e-47d9-b3c9-8d05e4983e1e.png">
