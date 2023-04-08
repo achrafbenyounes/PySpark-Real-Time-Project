@@ -27,11 +27,16 @@ Below is the project flow and explanation of its architecture :
 <img width="566" alt="image" src="https://user-images.githubusercontent.com/6604847/230718114-724e8799-ca9e-47d9-b3c9-8d05e4983e1e.png">
 
 Let's analyse the data ingestion stage, in this step we will insert the vendor data into PySpark DataFrame.
+
 The vendor data could be in different file formats like CSV, Parquet, ORC. The first task consists of bring data to the local server and from there we would copy it to our HDFS, from HDFS, we would load it to PySpark DataFrame.
 
 This is the flow of Data Ingestion, and we're going to implement all these changes into a script. 
 
 <img width="536" alt="image" src="https://user-images.githubusercontent.com/6604847/230718126-cc9e2692-5fc6-4599-8bd7-1a90e99dff23.png">
+
+The next step in the pipeline is the data pre-processing, where we will do some data cleansing operations, we can have one or more data pre-processing operations.
+
+After this, we'll have a series of transformations to modify the row of data into a final layout which make the data ready for analysing purpose.
 
 <img width="428" alt="image" src="https://user-images.githubusercontent.com/6604847/230718148-c4497d8d-05ba-498f-b147-a21cf4f7d462.png">
 
