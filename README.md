@@ -17,7 +17,7 @@ Below is the project flow and explanation of its architecture :
 
 3- Transformation: Is the core of any data pipeline project, refers to the operations that change the data, which may include data standardization, Sorting, Deduplication, Validation, Adding new columns, Dropping existing columns. The ultimate goal of this step is to make it possible to analyse the data.
 
-4- Storage: 
+4- Storage: In this step, we're going to persist the final transform data at some relational database or cloud services like S3 Bucket, Azure Blob etc.
 
 <img width="584" alt="image" src="https://user-images.githubusercontent.com/6604847/230718086-17652101-8393-4cea-a0c4-9362673df726.png">
 
